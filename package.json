@@ -2,7 +2,7 @@
   "name": "react-hello",
   "version": "0.1.0",
   "private": true,
-  "homepages":"http://lijinlai.github.io/cnode",
+  "homepage":"http://lijinlai.github.io/cnode",
   "dependencies": {
     "axios": "^0.17.1",
     "react": "^16.1.1",
